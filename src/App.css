@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.products {
+  color: rgb(73, 9, 169);
+  background-color: slategrey;
+  margin: 100px;
+  padding: 20px;
+  border: 7px solid peru;
+  border-radius: 11px;
+  font-size: x-large;
 }
